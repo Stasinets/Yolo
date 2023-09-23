@@ -19,7 +19,7 @@ body {
 
 .services {
     margin-bottom: 15px;
-    width: 30%;
+    width: 20%;
     display: inline-block;
     background-color: #EDF4F8;
     height: 400px;
@@ -68,4 +68,49 @@ body {
     bottom: 25px;
     padding: 8px 15px 8px 15px;
     border: 0;
+}
+
+.services-img-group {
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 35px;
+    float: left;
+}
+
+.title-group {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.description-group {
+    font-size: 16px;
+    font-weight: 50;
+}
+
+.services-group {
+    margin-bottom: 50px;
+    width: 40%;
+    background-color: #EDF4F8;
+    height: 150px;
+    position: relative;
+    vertical-align: top;
+    margin-left: 48px;
+}
+
+.title-img-bottom-group {
+    position: absolute;
+    top: 54%;
+    left: 41%;
+    text-align: center;
+    width: 511px;
+    height: 336.144px;
+}
+
+.text-content-group {
+    position: absolute;
+    top: 87%;
+    left: 41%;
+    text-align: left;
+    width: 570px;
+    height: 336.144px;
 }
